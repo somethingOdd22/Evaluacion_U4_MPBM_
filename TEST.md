@@ -2,10 +2,10 @@
  
 ## 1. Conceptos Generales
 **¿Qué es un archivo Markdown y para qué sirve?**
-> Escribe tu respuesta aquí...
+> Sirve para escribir documentos de manera clara y organizada.
  
 **¿Cuál es el propósito del archivo README.md en un repositorio de GitHub?**
-*Escribe tu respuesta aquí (recuerda usar formato cursiva como se pide en la evaluación).*
+*Sirve explicar de que trata un proyecto, sus funciones y para guardar información importante.*
  
 ---
  
@@ -26,8 +26,8 @@ Completa la siguiente guía de referencia con los símbolos correctos:
  
 ## 3. Flujo de Trabajo en GitHub Desktop
 **¿Qué diferencia hay entre hacer un "Commit" y hacer un "Push"?**
-* **Commit:** (Responde aquí)
-* **Push:** (Responde aquí)
+* **Commit:** Guarda los cambios que hiciste en tu proyecto de forma local.
+* **Push:** Envía esos cambios guardados al repositorio.
  
 **¿Para qué sirve el botón "Fetch Origin"?**
-> Escribe tu respuesta aquí...
+> Sirve para revisar si hay cambios nuevos en el repositorio remoto sin descargarlos todavía.
